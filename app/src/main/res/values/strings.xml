@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PDFGenerate</string>
+    <string name="pdf">Generate to PDF</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="ttl">Tempat Tanggal Lahir</string>
+    <string name="phone">No Handphone</string>
+    <string name="generate">Generate</string>
+    <string name="namanotfound">Nama Lengkap Wajib Di Isi</string>
+    <string name="alamatnotfound">Alamat Wajib Di Isi</string>
+    <string name="ttlnotfound">Tempat Tanggal Lahir Wajib Di Isi</string>
+    <string name="phonenotfound">Nomor Handphone Wajib Di Isi</string>
+</resources>
